@@ -2058,7 +2058,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
 - [Hagglyai](https://hagglyai.com) 'https://hagglyai.com/mcp'
-  [!Hagglyai MCP connector](https://glama.ai/mcp/connectors/com.hagglyai/hagglyai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hagglyai/hagglyai)
+  [!Hagglyai MCP connector](https://glama.ai/mcp/connectors/com.hagglyai/Hagglyai/badges/score.svg)](https://glama.ai/mcp/connectors/com.hagglyai/Hagglyai)
   🔓 - Compare paid agent endpoints (x402 + MCP) on price, uptime and real usage before you pay.
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
   [![Lumière PayCheck MCP connector](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Book0fEli/paycheck)
